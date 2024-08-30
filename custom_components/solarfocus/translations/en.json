@@ -569,7 +569,9 @@
     "select" : {
       "hp_smart_grid": {
         "state": {
+          "1": "Locked",
           "2": "Normal operation",
+          "3": "Suggest operation",
           "4": "Request operation"
         }
       },
